@@ -1,0 +1,14 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.DS_Store
+*.jld
+*.ipynb_checkpoints
+examples/data
+examples/res
+examples/notebooks
+sandbox/
+docs/build/
+docs/site
+benchmarks/
+*.ipynb
